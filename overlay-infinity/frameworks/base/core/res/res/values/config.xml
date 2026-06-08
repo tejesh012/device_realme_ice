@@ -1,0 +1,4 @@
+<resources>
+    <!-- StatusBar burn-in protection -->
+    <bool name="config_enableBurnInProtection">true</bool>
+</resources>
